@@ -99,8 +99,6 @@
     visibility: hidden;
     max-height: 0;
 
-   
-
 }
 
 .commentForm:focus-within footer {
@@ -128,4 +126,8 @@
 .commentForm button[type=submit]:hover {
     background: var(--green-300);
 
+}
+
+.commentList {
+    margin-top: 2rem;
 }
